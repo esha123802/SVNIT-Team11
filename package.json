@@ -1,0 +1,19 @@
+{
+  "name": "svnit-team11",
+  "version": "1.0.0",
+  "description": "Northern Trust Team 11",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devenparab/SVNIT-Team11.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devenparab/SVNIT-Team11/issues"
+  },
+  "homepage": "https://github.com/devenparab/SVNIT-Team11#readme"
+}
